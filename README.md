@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi there! I'm Douknowzz
+
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/) [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) 
+
+[![Douknowzz's github trophy](https://github-profile-trophy.vercel.app/?username=Douknowzz&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Douknowzz's github stats](https://github-readme-stats.vercel.app/api?username=Douknowzz&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats) [![Douknowzz's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Douknowzz&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Douknowzz/Douknowzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

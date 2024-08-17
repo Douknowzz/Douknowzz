@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header-image.png)
 
 <p align="justify">
 Welcome to my GitHub Page. I am Qinghong Gao and my major is Computer Science and Technology, I learn new things about programming from Github, I have been programming for 4 years. And my hobby is playing tennis.
